@@ -1,0 +1,8 @@
+{
+    "name": "twig-tailor",
+    "description": "Protoyping kit for Twig",
+    "require": {
+        "lastcall/mannequin-twig": "^1.0",
+        "symfony/dotenv": "^4.0"
+    }
+}
